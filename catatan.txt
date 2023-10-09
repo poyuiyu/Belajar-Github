@@ -1,3 +1,1 @@
-precision (presisi) sebesar 80% berarti dari semua prediksi positif yang dibuat oleh model, sekitar 80% dari prediksi tersebut adalah benar-benar kasus positif. Presisi memberikan indikasi tentang sejauh mana model dapat menghindari melakukan kesalahan dalam memprediksi positif palsu (FP).
-
-Sementara itu, recall (sensitivitas) sebesar 66.67% berarti model berhasil mendeteksi sekitar 66.67% dari semua kasus positif yang ada dalam dataset. Recall memberikan gambaran tentang sejauh mana model dapat menemukan kasus positif yang sebenarnya, dengan menghindari melakukan kesalahan dalam memprediksi negatif palsu (FN).
+Halo Banh
